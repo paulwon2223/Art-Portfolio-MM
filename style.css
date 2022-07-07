@@ -1,0 +1,39 @@
+* {
+    scroll-behavior: smooth;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navsection {
+    padding-top: 40px;
+}
+
+.name {
+    font-family: 'Dancing Script', cursive;
+    font-size: 45px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+    padding: 30px;
+    font-family: 'Kantumruy Pro', sans-serif;
+}
+
+.navlink {
+    color: black;
+}
+
+.demo-img {
+    width: 50% !important;
+    height: 50% !important;
+}
+
+#carouselExampleInterval {
+    height: 800px;
+    width: 800px;
+}
