@@ -31,14 +31,18 @@ li {
 
 
 /* ------------------- HOMEPAGE ------------------- */
+.herocontainer {
+    padding-top: 20px;
+}
+
 .demo-img {
     width: 50% !important;
     height: 50% !important;
 }
 
 #carouselExampleInterval {
-    height: 800px;
-    width: 800px;
+    height: 900px;
+    width: 900px;
 }
 
 
@@ -56,6 +60,8 @@ li {
 
 .bio {
     padding-top: 30px;
+    font-family: 'Roboto Flex', sans-serif;
+    font-size: 18px;
 }
 
 
