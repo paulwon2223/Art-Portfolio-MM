@@ -74,3 +74,11 @@ li {
 
 
 /* ------------------- CONTACT ------------------- */
+.portraitpic2 {
+    height: 400px;
+    width: 300px;
+}
+
+.contactcontainer {
+    margin: 120px;
+}
