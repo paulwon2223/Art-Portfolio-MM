@@ -77,8 +77,13 @@ li {
 .portraitpic2 {
     height: 400px;
     width: 300px;
+    border-radius: 40px;
 }
 
 .contactcontainer {
-    margin: 120px;
+    margin: 160px;
+}
+
+.contact {
+    margin: 30px;
 }
